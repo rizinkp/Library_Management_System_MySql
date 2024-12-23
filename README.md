@@ -1,2 +1,2 @@
-# Library_Management_System_MySql
-Entri MySQL Module 3 Project
+# Library Management System MySql Project
+This repository included Library Management System project as part of DSML Module 3 project.
